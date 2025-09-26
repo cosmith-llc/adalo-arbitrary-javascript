@@ -1,10 +1,10 @@
 {
-  "name": "adalo-arbitrary-javascript",
+  "name": "@cosmith/adalo-arbitrary-js",
   "description": "Some times you just want to write code",
-  "version": "1.0.6",
+  "version": "0.0.5",
   "main": "index.js",
   "license": "ISC",
-  "author": "Steven McKeown",
+  "author": "cosmith.io",
   "scripts": {
     "start": "adalo dev",
     "login": "adalo login",
@@ -12,7 +12,7 @@
   },
   "adalo": {
     "logo": "./example-logo.png",
-    "displayName": "Adalo Arbitrary Javascript",
+    "displayName": "Adalo Javascript",
     "components": [
       {
         "name": "ArbitraryJavascript",

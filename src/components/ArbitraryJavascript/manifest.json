@@ -1,9 +1,9 @@
 {
-  "displayName": "Arbitrary Javascript",
+  "displayName": "Adalo Javascript",
   "defaultWidth": 160,
   "defaultHeight": 24,
   "components": "./index.js",
-  "icon": "./example-thumbnail.png",
+  "icon": "./thumbnail.png",
   "props": [
     {
       "name": "script",
